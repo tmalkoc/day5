@@ -20,6 +20,7 @@ a) kreirati sekvencu
 - obrisati blok iz sekvence
 - pomaći postojeći blok iz sekvence na početak
 - vidjeti trenutnu sekvencu
+
 b) evaluirati vrijednosti
 - unijeti jednu vrijednost nad kojom će se izvršiti svi blokovi i ispisati konačni rezultat
 - unijeti naziv tekstualne datoteke sa nizom vrijednosti - izvršit će se svi blokovi nad svim vrijednostima i snimiti izlazni file sa rezultatima
